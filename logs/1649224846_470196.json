@@ -1,0 +1,12 @@
+{
+    "id": "ruo33",
+    "name": "Ruo Lee",
+    "transaction_start": "20220406Z150030",
+    "transactions": {
+        "123-456-789": {
+            "transaction": {
+                "20220406Z150031": "check_balance : 100000"
+            }
+        }
+    }
+}
