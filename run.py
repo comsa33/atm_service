@@ -59,7 +59,7 @@ class ATM:
         assert amount > 0, "You should put more than 0 credit."
         self._atm_balance += amount
 
-    def _retrieve_atm_balance(self, auth_id, auth_pw, amount=0):
+    def _retrieve_atm_balance(self):
         self._auth = self._get_auth()
         assert self._auth == True, "You can't access the system!"
         amount = int(input("Credit: "))

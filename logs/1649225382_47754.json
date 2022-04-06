@@ -1,0 +1,15 @@
+{
+    "id": "ruo33",
+    "name": "Ruo Lee",
+    "transaction_start": "20220406Z150908",
+    "transactions": {
+        "123-456-789": {
+            "transaction": {
+                "20220406Z150909": "check_balance : 100000",
+                "20220406Z150916": "withdraw : 10000, balance : 90000",
+                "20220406Z150921": "deposit : 20, balance : 90020",
+                "20220406Z150941": "withdraw : 2334, balance : 87686"
+            }
+        }
+    }
+}
